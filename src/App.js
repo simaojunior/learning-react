@@ -1,25 +1,25 @@
 import './App.css';
 
 function App() {
-  const luana = {
-    client: 'Luana',
-    age: 27,
-    shopping: [
-      {
-        name: 'Notebook',
-        price: 'R$ 2500',
-      },
-      {
-        name: 'Refrigerator',
-        price: 'R$ 3000',
-      },
-      {
-        name: 'Smartfhone',
-        price: 'R$ 1500',
-      },
-    ],
-    active: true,
-  };
+  // const luana = {
+  //   client: 'Luana',
+  //   age: 27,
+  //   shopping: [
+  //     {
+  //       name: 'Notebook',
+  //       price: 'R$ 2500',
+  //     },
+  //     {
+  //       name: 'Refrigerator',
+  //       price: 'R$ 3000',
+  //     },
+  //     {
+  //       name: 'Smartfhone',
+  //       price: 'R$ 1500',
+  //     },
+  //   ],
+  //   active: true,
+  // };
 
   const kelly = {
     client: 'Kelly',
